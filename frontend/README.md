@@ -1,3 +1,8 @@
+First, install the necessary packages, run :-
+```
+yarn install
+```
+
 To start the frontend in development mode, run :-
 
 ```
